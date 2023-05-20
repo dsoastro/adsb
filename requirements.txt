@@ -1,0 +1,3 @@
+numpy
+pymodes==2.8
+requests
