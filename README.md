@@ -2,6 +2,8 @@
 
 Monitoring is performed by decoding ADS-B signal from airplane in 1090 MHz range. 
 
+The code in this repo is subject to GPL v2 license terms.
+
 ## Installation. RTL-SDR
 ```
 sudo apt-get install rtl-sdr libatlas-base-dev
